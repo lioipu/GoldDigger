@@ -3,19 +3,19 @@
 A Node.js web application that displays real-time gold prices and allows users to simulate purchasing gold based on their desired amount. Built with vanilla JavaScript, no frameworks, and a custom server.
 ## 📌 Features
 
-### 📈 Live Gold Price Display
+** 📈 Live Gold Price Display **
     Real-time updates of the current gold price.
 
-### 🛒 Purchase Simulation
+** 🛒 Purchase Simulation **
     Enter an amount of gold you'd like to "purchase" and see the total price calculated instantly.
 
-### 🧼 Input Sanitization
+** 🧼 Input Sanitization **
     Prevents injection and unsafe user inputs.
 
-### 📁 Static File Serving
+** - 📁 Static File Serving **
     Handles serving HTML, CSS, JS, and image files with appropriate content types.
 
-### ⚙️ Custom Server
+** ⚙️ Custom Server **
     Built from scratch using core Node.js modules—no Express or other frameworks.
 
 ## 🗂️ Project Structure
