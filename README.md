@@ -4,8 +4,8 @@ A Node.js web application that displays real-time gold prices and allows users t
 ## 📌 Features
 
 -  **📈 Live Gold Price Display**
-  
-  Real-time updates of the current gold price.
+
+   Real-time updates of the current gold price.
 
 - **🛒 Purchase Simulation**
   
@@ -46,19 +46,18 @@ node server.js
 ## 4. Open in browser
 
 Visit:
+
 ```
 http://localhost:3000
 ```
 
 ## 🛠 Tech Stack
     
-    - Backend: Node.js (no frameworks)
-
-    - Frontend: Vanilla JS, HTML, CSS
-
-    - Data Storage: JSON file
-
-    - Utilities: Custom-built routing, sanitization, and static file serving
+    
+- Backend: Node.js (no frameworks)
+- Frontend: Vanilla JS, HTML, CSS
+- Data Storage: JSON file
+- Utilities: Custom-built routing, sanitization, and static file serving
 
 
 ## 🙌 Credits
