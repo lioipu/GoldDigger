@@ -19,7 +19,8 @@ A Node.js web application that displays real-time gold prices and allows users t
     Built from scratch using core Node.js modules—no Express or other frameworks.
 
 ## 🚀 Getting Started
-## 1. Clone the repo
+
+ **1. Clone the repo**
 
 ```
 git clone https://github.com/your-username/gold-price-tracker.git
