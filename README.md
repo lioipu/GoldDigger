@@ -1,4 +1,4 @@
-# 🪙 Real-Time Gold Price Tracker & Purchase App
+## 🪙 Real-Time Gold Price Tracker & Purchase App
 
 A Node.js web application that displays real-time gold prices and allows users to simulate purchasing gold based on their desired amount. Built with vanilla JavaScript, no frameworks, and a custom server.
 📌 Features
