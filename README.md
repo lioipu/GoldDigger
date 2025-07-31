@@ -18,29 +18,6 @@ A Node.js web application that displays real-time gold prices and allows users t
 -   **⚙️ Custom Server**
     Built from scratch using core Node.js modules—no Express or other frameworks.
 
-## 🗂️ Project Structure
-```
-.
-├── data/                   # Stores app data
-│   └── data.json
-├── handlers/              # Route logic
-│   └── routeHandlers.js
-├── public/                # Frontend assets
-│   ├── index.html         # Main UI
-│   ├── index.js           # Frontend logic
-│   ├── index.css          # Styling
-│   ├── 404.html
-│   └── images/
-├── utils/                 # Utility functions
-│   ├── sanitizeInput.js   # Cleans user input
-│   ├── sendResponse.js    # Handles HTTP responses
-│   └── ...                # Other server utilities
-├── server.js              # Main entry point
-├── package.json
-└── package-lock.json
-
-```
-
 ## 🚀 Getting Started
 ## 1. Clone the repo
 
