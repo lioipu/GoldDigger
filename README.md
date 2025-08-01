@@ -27,8 +27,8 @@ A Node.js web application that displays real-time gold prices and allows users t
  ### 1. Clone the repo
 
 ```
-git clone https://github.com/lioipu/GoldDigger.git
-cd GoldDigger
+git clone https://github.com/lioipu/gold-digger.git
+cd gold-digger
 ```
 
 ## 2. Install dependencies
